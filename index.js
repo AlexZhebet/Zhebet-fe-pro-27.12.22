@@ -1,1 +1,1 @@
-console console.log('homework №1');
+console.log('doing homework №1');
