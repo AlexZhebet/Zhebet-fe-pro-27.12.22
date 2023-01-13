@@ -36,8 +36,4 @@ if (sport == `футбол` || sport == `футбол`) {
     alert(`Шкода, що Ви не захотіли ввести свій улюблений вид спорту`)
 }
 
-let breedingYears = age ? `тобі ${numberAge}` : `Ти не вказав свій вік`
-let breedingCity = city ? `Ти живеш в ${city}` : 'Ти не вказав місто в якому ти живеш'
-let breedingSport = sport ? `Твій улюблений спорт ${sport}` : 'Ти не вказав свій улюблений спорт'
 
-alert(`${breedingYears}, ${breedingCity}, ${breedingSport}`);
